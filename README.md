@@ -3,9 +3,9 @@ A simple cmake setup for opengl and SDL
 
 # Configure
 
-mkdir build
+`mkdir build
 cd build
-cmake ..
+cmake ..`
 
 Solution will be in the build folder - simple-gl.sln
 
@@ -13,7 +13,7 @@ Solution will be in the build folder - simple-gl.sln
 
 in build folder -
 
-cmake --build .
+`cmake --build .`
 
 Output simple-gl.exe will be in bin folder.
 

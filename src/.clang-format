@@ -1,0 +1,8 @@
+﻿---
+BasedOnStyle: Google
+ColumnLimit: '200'
+IndentWidth: '4'
+AllowShortFunctionsOnASingleLine: 'InlineOnly'
+AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'true'
+...
